@@ -1,4 +1,3 @@
-<img src="top.jpg">
 <h1 align="center">Hi 👋, I'm Cristopher</h1>
 <h3 align="center">Karate and code lover, Fullstack</h3>
 
