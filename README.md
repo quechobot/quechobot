@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cristopher</h1>
-<h3 align="center">Karate and code lover, Fullstack</h3>
+<h3 align="center">Code and karate lover, Fullstack</h3>
 
 - 🔭 I’m currently working on **SIGA (government of puebla 🇲🇽)**
 
 - 🌱 I’m currently learning **TypeScript, GraphQL, Flutter...**
 
-- 💬 Ask me about **Symfony, html and React**
+- 💬 Ask me about **Symfony, html and Vue**
 
 - 📫 How to reach me **crisquegue@gmail.com**
 
